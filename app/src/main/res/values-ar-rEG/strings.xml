@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تعلم اللغة الالمانية</string>
+    <string name="chapters">الفصول</string>
+    <string name="lessons">الدروس</string>
+    <string name="lesson">الدرس</string>
+    <string name="example">مثال</string>
+</resources>

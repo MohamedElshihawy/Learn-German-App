@@ -1,0 +1,86 @@
+package com.example.learngermauser.shared.data.initialData.lessonPagesContent.letters
+
+import com.example.learngermauser.lessons.domain.models.LessonPageContent
+
+val lettersThirdLesson = listOf(
+    LessonPageContent(
+        lessonId = 3,
+        word = "U",
+        wordTranslation = "أو",
+        example = "Uhr",
+        exampleTranslation = "ساعة",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "Ü",
+        wordTranslation = "إيو",
+        example = "Über",
+        exampleTranslation = "فوق",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "V",
+        wordTranslation = "فاو",
+        example = "Vogel",
+        exampleTranslation = "طائر",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "W",
+        wordTranslation = "دبليو",
+        example = "Weg",
+        exampleTranslation = "طريق",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "X",
+        wordTranslation = "إكس",
+        example = "Xylophon",
+        exampleTranslation = "زيلوفون",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "Y",
+        wordTranslation = "واي",
+        example = "Yoga",
+        exampleTranslation = "يوغا",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "Z",
+        wordTranslation = "زيت",
+        example = "Zeit",
+        exampleTranslation = "زمن",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "Ä",
+        wordTranslation = "إيه",
+        example = "Äpfel",
+        exampleTranslation = "تفاح",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "Ö",
+        wordTranslation = "إيو",
+        example = "Öffnen",
+        exampleTranslation = "فتح",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 3,
+        word = "ẞ",
+        wordTranslation = "زيت كبيرة",
+        example = "Fußgängerüberweg",
+        exampleTranslation = "ممر المشاة",
+        image = null,
+    ),
+)

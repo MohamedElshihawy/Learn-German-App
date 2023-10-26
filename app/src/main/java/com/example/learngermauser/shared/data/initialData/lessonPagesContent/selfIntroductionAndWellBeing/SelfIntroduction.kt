@@ -1,0 +1,86 @@
+package com.example.learngermauser.shared.data.initialData.lessonPagesContent.selfIntroductionAndWellBeing
+
+import com.example.learngermauser.lessons.domain.models.LessonPageContent
+
+val selfIntroductionLesson = listOf(
+    LessonPageContent(
+        lessonId = 26,
+        word = "Hallo, mein Name ist [Your Name].",
+        wordTranslation = "مرحبًا، اسمي [اسمك].",
+        example = "Hallo, mein Name ist Max.",
+        exampleTranslation = "مرحبًا، اسمي ماكس.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Ich komme aus [Your Hometown].",
+        wordTranslation = "أنا من [مدينتك].",
+        example = "Ich komme aus Berlin.",
+        exampleTranslation = "أنا من برلين.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Ich bin [Your Age] Jahre alt.",
+        wordTranslation = "عمري [عمرك] سنة.",
+        example = "Ich bin 25 Jahre alt.",
+        exampleTranslation = "عمري 25 سنة.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Beruflich arbeite ich als [Your Occupation].",
+        wordTranslation = "مهنيًا، أعمل كـ [مهنتك].",
+        example = "Beruflich arbeite ich als Lehrer.",
+        exampleTranslation = "مهنيًا، أعمل كمعلم.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Ich studiere [Your Major] an der [Name of University].",
+        wordTranslation = "أنا أدرس [تخصصك] في جامعة [اسم الجامعة].",
+        example = "Ich studiere Informatik an der TU München.",
+        exampleTranslation = "أنا أدرس علوم الحاسوب في جامعة تكنيك ميونخ.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "In meiner Freizeit interessiere ich mich für [Your Hobbies/Interests].",
+        wordTranslation = "في أوقات فراغي، أنا مهتم بـ [اهتماماتك].",
+        example = "In meiner Freizeit interessiere ich mich für Musik und Reisen.",
+        exampleTranslation = "في أوقات فراغي، أنا مهتم بالموسيقى والسفر.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Meine Familie besteht aus [Number] Personen, einschließlich [Family Members].",
+        wordTranslation = "عائلتي تتكون من [عدد] أشخاص، بما في ذلك [أفراد العائلة].",
+        example = "Meine Familie besteht aus 4 Personen, einschließlich meiner Eltern und meiner Schwester.",
+        exampleTranslation = "عائلتي تتكون من 4 أشخاص، بما في ذلك والدي وأختي.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Ich spreche [Languages You Speak].",
+        wordTranslation = "أتحدث [اللغات التي تتحدثها].",
+        example = "Ich spreche Deutsch und Englisch.",
+        exampleTranslation = "أتحدث الألمانية والإنجليزية.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Ich mag [Your Favorite Activities or Foods].",
+        wordTranslation = "أنا أحب [أنشطتك أو أطعمتك المفضلة].",
+        example = "Ich mag Radfahren und Pizza.",
+        exampleTranslation = "أنا أحب ركوب الدراجة والبيتزا.",
+        image = null,
+    ),
+    LessonPageContent(
+        lessonId = 26,
+        word = "Ich freue mich darauf, Sie/Dich kennenzulernen.",
+        wordTranslation = "أتطلع إلى معرفتك.",
+        example = "Ich freue mich darauf, Sie kennenzulernen.",
+        exampleTranslation = "أتطلع إلى معرفتك.",
+        image = null,
+    ),
+)

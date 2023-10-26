@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn German</string>
+    <string name="chapters">Chapters</string>
+    <string name="lessons">Lessons</string>
+    <string name="lesson">Lesson</string>
+    <string name="example">Example</string>
+</resources>
